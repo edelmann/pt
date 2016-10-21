@@ -7,7 +7,7 @@ permalink: /about/
 SGAS is an accounting system for maintaining a grid-wide view of the
 resources consumed by members of a virtual organization.
 
-![SGAS picture](/images/SGAS2_410.jpg)
+![SGAS picture]({{ site.url }}/images/SGAS2_410.jpg)
 
 The information gathered by the accounting system can serve several
 purposes, such as to allow enforcement of project quotas or to provide a
