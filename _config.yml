@@ -23,7 +23,7 @@ github_username:  sgas
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 
 github: [metadata]
 kramdown:
