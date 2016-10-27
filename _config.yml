@@ -16,7 +16,7 @@
 title: SGAS
 email: something@somewhere.foo
 description: > # this means to ignore newlines until "baseurl:"
-  This is still very experimental. Please se http://www.sgas.se for the official SGAS page.
+  This is still very experimental. Please see http://www.sgas.se for the official SGAS page.
 baseurl: "/pt" # the subpath of your site, e.g. /blog
 url: "http://edelmann.github.io" # the base hostname & protocol for your site
 github_username:  sgas
