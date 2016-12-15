@@ -6,7 +6,7 @@ permalink: /people/
 ## Current SGAS Team
 * Erik Edelmann, CSC - IT Center for Science / NeIC
 
-## Past SGASS Team members
+## Past SGAS Team members
 * Magnus Jonsson - HPC2N, Umeå University
 * Daniel Espling - Dept of Computing Science & HPC2N, Umeå University
 * Erik Elmroth - Dept of Computing Science & HPC2N, Umeå University
@@ -23,7 +23,7 @@ permalink: /people/
 * Peter Gardfjäll - Dept of Computing Science & HPC2N, Umeå University
 * Thomas Sandholm - PDC, Royal Institute of Technology
 
-## Other SGAS Contributors === 
+## Other SGAS Contributors
 * Lars Malinowsky, PDC, Royal Institute of Technology
 * Lennart Jonsson, PDC, Royal Institute of Technology
 * Martin Folkman, PDC, Royal Institute of Technology
