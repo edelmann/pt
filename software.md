@@ -31,7 +31,7 @@ See the [release directory](http://www.sgas.se/releases/)
 
 ## Source
 
-The source can be accessed via GitHub.com as [https://github.com/sgas].
+The source can be accessed via GitHub.com as [https://github.com/sgas](https://github.com/sgas).
 
 You can checkout the LUTS service source with:
 
