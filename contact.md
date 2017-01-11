@@ -11,8 +11,8 @@ As of 2013-10-01 NeIC has taken a lead in the maintanance of SGAS.
 Project leader is Erik Edelmann, [CSC - IT Center for
 Science](http://www.csc.fi).
 
-More information about the maintanance project can be found at NeIC page
-[https://wiki.neic.no/wiki/SGAS_maintenance_project].
+More information about the maintanance project can be found at the [NeIC
+wiki](https://wiki.neic.no/wiki/SGAS_maintenance_project).
 
 If you have general questions about the project before NeIC, get in contact
 with Associate Professor Erik Elmroth (Umeå University) at
